@@ -1,5 +1,6 @@
 
-
+notebook/processed_data/*
+notebook/processed_data_improved/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
